@@ -17,7 +17,7 @@ const Main = () => {
                     type="button"
                     id="button-addon2"
                 >
-                    Find
+                    Search
                 </button>
             </div>
         </div>
